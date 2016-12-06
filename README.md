@@ -1,2 +1,2 @@
-# YOUR-USERNAME.github.io
-Git set up 
+# mygit.github.io
+Github set up 
